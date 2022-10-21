@@ -27,6 +27,14 @@ The project in this repository implements a system for an Admin working at a tel
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/68999346/197121096-680acaab-e8c4-42e2-a8c9-abece6020509.png)
+
+
+![image](https://user-images.githubusercontent.com/68999346/197121182-1cce5bce-e5dc-4b3f-a6fb-4d842ed69f91.png)
+
+
+![image](https://user-images.githubusercontent.com/68999346/197121263-3f131c10-e961-4f0a-9cf3-e8535c11d0f3.png)
+
 
 
 ## Usage and Instructions
