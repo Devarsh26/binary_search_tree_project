@@ -1,5 +1,6 @@
 # Data Structure for Admin of Telephone Company
 
+
 ## About
 
 The project in this repository implements a system for an Admin working at a telephone service company.
